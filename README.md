@@ -3,7 +3,7 @@ Local Music Player
 
 This is a simple Spotify clone music player web application built using HTML, CSS and JavaScript. It allows users to play audio tracks and control playback, mimicking a simplified Spotify-like interface.
 
-Features
+Features 
 UI with tracklist, player and controls
 Displays track info like name, artist, cover art
 Plays/pauses tracks
